@@ -25,8 +25,8 @@ The mathematical core runs server-side on a dedicated Streamlit instance. You ca
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/dywokb-hash/sphy_wow_proof.git](https://github.com/dywokb-hash/sphy_wow_proof.git)
-cd sphy_wow_proof
+git clone [https://github.com/deywe/sphy_wow_1977_solved.git](https://github.com/deywe/sphy_wow_1977_solved.git)
+cd sphy_wow_1977_solved
 
 ```
 
